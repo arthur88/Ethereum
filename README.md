@@ -1,2 +1,2 @@
-* Ethereum
-* Cool Token - Exmaple of smart contract as tokens
+* Ethereum - pet shop with smart constracts
+* Cool Token - Exaple of smart contract as tokens
